@@ -75,4 +75,4 @@ This is a personal, self-funded learning project — not affiliated with any emp
 
 ---
 
-Built by [Edwin Sekgethela - LinkedIn](https://www.linkedin.com/in/edwin-sekgethela) while working toward CCNA and a career in network & security engineering.
+Built by [Edwin Sekgethela - LinkedIn](https://www.linkedin.com/in/edwin-tiisetso-sekgethela) while working toward CCNA and a career in network & security engineering.
